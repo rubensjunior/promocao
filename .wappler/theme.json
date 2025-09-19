@@ -1,0 +1,8 @@
+{
+  "bootstrap5": {
+    "basic": {
+      "headings-font-family": "Poppins:700"
+    },
+    "advanced": {}
+  }
+}
